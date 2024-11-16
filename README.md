@@ -1,6 +1,6 @@
 # svg hosting
 
-Use this link if you need svg icons:
+Use this link if you need svg icons, after changing <Name> according to the table:
 
 ```markdown
 https://raw.github.com/Sergey1322/svgpick/blob/main/<Name>.svg?sanitize=true
