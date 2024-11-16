@@ -5,6 +5,10 @@ Use this link if you need svg icons, after changing <Name> according to the tabl
 ```markdown
 https://raw.github.com/Sergey1322/svgpick/blob/main/<Name>.svg?sanitize=true
 ```
+Create svg icons:
+```markdown
+https://iconce.com/
+```
 
 ### icons
 name|icon|url
