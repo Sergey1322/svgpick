@@ -25,3 +25,9 @@ name|icon|url
 80G | <img src="https://github.com/Sergey1322/svgpick/blob/main/80G.svg?sanitize=true"/>|`![](https://github.com/Sergey1322/svgpick/blob/main/80G.svg?sanitize=true)`
 90G | <img src="https://github.com/Sergey1322/svgpick/blob/main/90G.svg?sanitize=true"/>|`![](https://github.com/Sergey1322/svgpick/blob/main/90G.svg?sanitize=true)`
 100G | <img src="https://github.com/Sergey1322/svgpick/blob/main/100G.svg?sanitize=true"/>|`![](https://github.com/Sergey1322/svgpick/blob/main/100G.svg?sanitize=true)`
+200G | <img src="https://github.com/Sergey1322/svgpick/blob/main/200G.svg?sanitize=true"/>|`![](https://github.com/Sergey1322/svgpick/blob/main/200G.svg?sanitize=true)`
+300G | <img src="https://github.com/Sergey1322/svgpick/blob/main/300G.svg?sanitize=true"/>|`![](https://github.com/Sergey1322/svgpick/blob/main/300G.svg?sanitize=true)`
+400G | <img src="https://github.com/Sergey1322/svgpick/blob/main/400G.svg?sanitize=true"/>|`![](https://github.com/Sergey1322/svgpick/blob/main/400G.svg?sanitize=true)`
+500G | <img src="https://github.com/Sergey1322/svgpick/blob/main/500G.svg?sanitize=true"/>|`![](https://github.com/Sergey1322/svgpick/blob/main/500G.svg?sanitize=true)`
+600G | <img src="https://github.com/Sergey1322/svgpick/blob/main/600G.svg?sanitize=true"/>|`![](https://github.com/Sergey1322/svgpick/blob/main/600G.svg?sanitize=true)`
+1Tb | <img src="https://github.com/Sergey1322/svgpick/blob/main/1Tb.svg?sanitize=true"/>|`![](https://github.com/Sergey1322/svgpick/blob/main/1Tb.svg?sanitize=true)`
