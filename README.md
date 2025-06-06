@@ -14,7 +14,6 @@ https://iconce.com/
 name|icon|url
 -|-|-
 CWDM | <img src="https://github.com/Sergey1322/svgpick/blob/main/CWDM.svg?sanitize=true"/>|`https://github.com/Sergey1322/svgpick/raw/main/CWDM.svg?sanitize=true`
-100m | <img src="https://github.com/Sergey1322/svgpick/blob/main/100m.svg?sanitize=true"/>|`https://github.com/Sergey1322/svgpick/raw/main/CWDM.svg?sanitize=true`
 1G | <img src="https://github.com/Sergey1322/svgpick/blob/main/1G.svg?sanitize=true"/>|`https://github.com/Sergey1322/svgpick/raw/main/1G.svg?sanitize=true`
 2G | <img src="https://github.com/Sergey1322/svgpick/blob/main/2G.svg?sanitize=true"/>|`https://github.com/Sergey1322/svgpick/raw/main/2G.svg?sanitize=true`
 3G | <img src="https://github.com/Sergey1322/svgpick/blob/main/3G.svg?sanitize=true"/>|`https://github.com/Sergey1322/svgpick/raw/main/3G.svg?sanitize=true`
